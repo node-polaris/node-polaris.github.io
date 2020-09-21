@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello World</title>
-    <url>/2020/09/21/hello-world/</url>
-    <content><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
-<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
-<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
-<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
-<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
-
-<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+    <title>关于CTHOL</title>
+    <url>/2020/09/22/%E6%AC%A2%E8%BF%8E%EF%BC%81/</url>
+    <content><![CDATA[<p>你好！<br>如果你看到了这个画面，那么恭喜！你已经找到了世界上最详细（因为大概是唯一一部）的《克苏鲁的召唤》在线指南，以及扩充在线阅读站！我们了解您可能会会有一些困惑，让我们来跟您解释一下:</p>
+<h2 id="谁在运营这个站点？"><a href="#谁在运营这个站点？" class="headerlink" title="谁在运营这个站点？"></a>谁在运营这个站点？</h2><p>我，也就是polaris。你可以在github上找到我(node-polaris)。这个网站使用hexo博客搭建，使用了landscape主题。</p>
+<h2 id="翻译者和Chaosium同意了吗？"><a href="#翻译者和Chaosium同意了吗？" class="headerlink" title="翻译者和Chaosium同意了吗？"></a>翻译者和Chaosium同意了吗？</h2><p>CTHOL将永远不会把翻译的内容用作商业内容，仅作分享。《克苏鲁的召唤》中国代理方尚未给我们一个详细的答复，因此，该站点可能因为法律问题随时下线。</p>
+<h2 id="我会读到什么？"><a href="#我会读到什么？" class="headerlink" title="我会读到什么？"></a>我会读到什么？</h2><p>准确地说，就是一本在线的规则书。但和PDF不同的是，你可以在每一章节/页面里面找到和它相关的内容，以便读者更好的阅读，同时，你也可以通过Ctrl+F查找功能来查找需要的部分。</p>
+<h2 id="额外内容呢？"><a href="#额外内容呢？" class="headerlink" title="额外内容呢？"></a>额外内容呢？</h2><p>我们可能会将一些非官方规则上的内容单独放在一个板块里面，欢迎查阅。</p>
+<h2 id="我想捐赠你们，请给一个链接吧。"><a href="#我想捐赠你们，请给一个链接吧。" class="headerlink" title="我想捐赠你们，请给一个链接吧。"></a>我想捐赠你们，请给一个链接吧。</h2><p>我们暂时不接受捐赠。</p>
+<p>好了，如果您读完了，那么欢迎使用该站点！它将会不断的完善，我相信也会对跑团有着很大的作用！</p>
 ]]></content>
   </entry>
 </search>
